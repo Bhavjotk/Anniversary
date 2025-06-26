@@ -313,12 +313,12 @@
         
         <div class="message-box">
             <p class="message-text">
-                Like Milk and Mocha, you two are the perfect pair! 
+                Like Milk and Mocha, we are the perfect pair! 
                 One brings the sparkle and excitement, the other brings wisdom and calm. 
-                Together you create the most beautiful love story. 
+                Together we create the most beautiful love story. 
                 Here's to another year of complementing each other perfectly! 
-                May your bond continue to grow stronger with each passing day. 
-                Wishing you both endless happiness and joy! 🐻‍❄️💕🐻
+                May our bond continue to grow stronger with each passing day. 
+                Wishing us both endless happiness and joy! 🐻‍❄️💕🐻
             </p>
             <button class="celebration-btn" onclick="createCelebration()">Celebrate! 🎉</button>
         </div>
